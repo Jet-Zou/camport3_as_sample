@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">camport3_android_demo_v2</string>
+    <string name="DeepCamera">Deep camera</string>
+    <string name="OpenCamera">Open</string>
+    <string name="CloseCamera">Close</string>
+</resources>
